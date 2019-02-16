@@ -20,8 +20,8 @@ This repo contains the R scripts and raw data used to run the analysis and figur
   *script_suppl_mat.R: codes used to create the figures and run the analysis used in the supplementary material of the manuscript
 
 ### Raw datasets:
-  *spatial_dataset.csv: raw spatial dataset used in this manuscript
-  *seasonal_dataset.csv: raw seasonal dataset used in this manucript
-  *mean_data.csv: mean values of the seasonal dataset used in the supplementary material of this manuscript
-  *surf_bottom_sup_mat.csv: surface and bottom seasonal pCO2 values from Gargalheiras and Cruzeta reservoirs used in the supplementary material of this manuscript
+  Markup :* spatial_dataset.csv: raw spatial dataset used in this manuscript
+          * seasonal_dataset.csv: raw seasonal dataset used in this manucript
+          * mean_data.csv: mean values of the seasonal dataset used in the supplementary material of this manuscript
+          * surf_bottom_sup_mat.csv: surface and bottom seasonal pCO2 values from Gargalheiras and Cruzeta reservoirs used in the supplementary material of this manuscript
   
