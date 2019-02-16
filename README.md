@@ -16,12 +16,12 @@ The role of tropical lakes and reservoirs in the global carbon cycle has receive
 This repo contains the R scripts and raw data used to run the analysis and figures presented in the manuscript "Effects of Seasonality, Trophic State and Landscape Properties on CO2 saturation in Low-Latitude Lakes and Reservoirs" published online in the journal *Science of the Total Environment* (https://doi.org/10.1016/j.scitotenv.2019.01.273):
 
 ### Scripts:
-  *script_figs_stats.R: codes used to create the figures and run the analysis conducted throughout the main text of the manuscript
-  *script_suppl_mat.R: codes used to create the figures and run the analysis used in the supplementary material of the manuscript
+  * script_figs_stats.R: codes used to create the figures and run the analysis conducted throughout the main text of the manuscript
+  * script_suppl_mat.R: codes used to create the figures and run the analysis used in the supplementary material of the manuscript
 
 ### Raw datasets:
-  Markup : * spatial_dataset.csv: raw spatial dataset used in this manuscript
-           * seasonal_dataset.csv: raw seasonal dataset used in this manucript
-           * mean_data.csv: mean values of the seasonal dataset used in the supplementary material of this manuscript
-           * surf_bottom_sup_mat.csv: surface and bottom seasonal pCO2 values from Gargalheiras and Cruzeta reservoirs used in the supplementary material of this manuscript
+  * spatial_dataset.csv: raw spatial dataset used in this manuscript
+  * seasonal_dataset.csv: raw seasonal dataset used in this manucript
+  * mean_data.csv: mean values of the seasonal dataset used in the supplementary material of this manuscript
+  * surf_bottom_sup_mat.csv: surface and bottom seasonal pCO2 values from Gargalheiras and Cruzeta reservoirs used in the supplementary material of this manuscript
   
